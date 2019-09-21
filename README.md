@@ -1,4 +1,4 @@
-# my firts appStore ( teste )
+# My firts appStore ( test of skill)
 Mobile Virtual Store Project in Angular, HTML5 and CSS3, for learning and testing.
 
 
