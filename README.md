@@ -1,5 +1,5 @@
-# My firts appStore ( test of skill)
+# My firts appStore ( app created for skill test!)
 Mobile Virtual Store Project in Angular, HTML5 and CSS3, for learning and testing.
+Go to See => https://angular-appstore.stackblitz.io
 
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wdl7f1-k55dse)
+Tks!
